@@ -1,2 +1,2 @@
 print("This is done by Dev_X")
-print(“This is the content of b file”))
+print("This is the content of b file")
